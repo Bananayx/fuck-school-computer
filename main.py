@@ -9,7 +9,7 @@ import urllib.error
 from datetime import datetime
 
 
-TASK_URL = "https://www.byxpan.qzz.io/f/Z9he/config.json"
+TASK_URL = "https://example.com/xxx.json"
 POLL_INTERVAL_SECONDS = 60
 LOG_FILE_NAME = "ed.log"
 CONFIG_FILE_NAME = "config.json"
