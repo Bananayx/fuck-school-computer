@@ -64,7 +64,7 @@ TASK_URL = "https://example.com/xxx.json"
 
 ## 许可证
 
-[Unlicense license](LICENSE)
+[Unlicense license](https://github.com/Bananayx/fuck-school-computer?tab=Unlicense-1-ov-file)
 
 ## 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
 
